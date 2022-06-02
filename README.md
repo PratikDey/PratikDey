@@ -2,7 +2,7 @@
 
 ## _A student, developer, weeb and a gamer_
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/patrik_dey?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/pratik_twt_&screen_name=Pratik Dey)
+[![Twitter Follow](https://img.shields.io/twitter/follow/patrik_dey?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/pratik_twt_&screen_name=pratik_twt_)
 
 - 🌱 I’m currently learning backend development
 - 👯 I’m looking to network with other developers
