@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/pratik_twt_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/pratik_twt_&screen_name=pratik_twt_)
 
-- 🌱 I’m currently learning backend development
+- 🌱 Learning Java Spring Boot
 - 👯 I’m looking to network with other developers
 - 🥅 2023 - 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Valorant and football
